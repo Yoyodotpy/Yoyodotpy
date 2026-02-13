@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://images-ext-1.discordapp.net/external/JHSoq5LJR5iO4T95UiPTDi6wY3Oov12QFSPldxpplGo/https/media.tenor.com/kkrKE-z-EBsAAAPo/linus-torvalds-linux.mp4)
-
+![alt text](./linus.gif)
